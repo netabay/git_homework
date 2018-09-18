@@ -1,2 +1,6 @@
 My homework
 fixing stuff
+<<<<<<< HEAD
+=======
+adding content
+>>>>>>> add_content
